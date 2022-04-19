@@ -9,8 +9,8 @@ doin' cloud-native stuff, the wacky kind | open-source freak and contributor | e
 
 - [capactio/capact](https://github.com/capactio/capact) - Simple way to manage applications and infrastructure.
 - [mszostok/codeowners-validator](https://github.com/mszostok/codeowners-validator) - The GitHub CODEOWNERS file validator.
-- [mszostok/gimme](https://github.com/mszostok/gimme) - Gimme gives you an easy way to generate statistics about a Git and GitHub repository. **[Will be public soon! Stay tunded!]**
-- [mszostok/columbo](https://github.com/mszostok/columbo) - An experimental diff tool that compares CLIs command outputs **[Will be public soon! Stay tunded!]**
+- [mszostok/gimme](https://github.com/mszostok/gimme) - Gimme gives you an easy way to generate statistics about a Git and GitHub repository. **[Will be public soon! Stay tuned!]**
+- [mszostok/columbo](https://github.com/mszostok/columbo) - An experimental diff tool that compares CLIs command outputs **[Will be public soon! Stay tuned!]**
 
 #### 🔭 My latest projects
 
