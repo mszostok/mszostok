@@ -7,10 +7,10 @@ doin' cloud-native stuff, the wacky kind | open-source freak and contributor | e
   
 #### 🔨 I'm working on
 
-- [capactio/capact](https://github.com/capactio/capact) - Simple way to manage applications and infrastructure.
+- [kubeshop/botkube](https://github.com/kubeshop/botkube) - A messaging bot for monitoring and debugging Kubernetes clusters.
 - [mszostok/codeowners-validator](https://github.com/mszostok/codeowners-validator) - The GitHub CODEOWNERS file validator.
-- [mszostok/gimme](https://github.com/mszostok/gimme) - Gimme gives you an easy way to generate statistics about a Git and GitHub repository. **[Will be public soon! Stay tuned!]**
-- [mszostok/columbo](https://github.com/mszostok/columbo) - An experimental diff tool that compares CLIs command outputs **[Will be public soon! Stay tuned!]**
+- [mszostok/version](https://github.com/mszostok/version) - Go package to present your CLI version in a **classy way**. Born to **remove the repetitiveness** in implementing the version command.
+- [mszostok/gimme](https://github.com/mszostok/gimme) - Give you an easy way to generate statistics about a Git and GitHub repository. **[Will be public soon!]**
 
 #### 🔭 My latest projects
 
@@ -23,8 +23,8 @@ doin' cloud-native stuff, the wacky kind | open-source freak and contributor | e
 #### ⭐ Recent Stars
 
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (5 days ago)
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops (1 week ago)
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑 (1 week ago)
-- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (2 weeks ago)
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (2 weeks ago)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
