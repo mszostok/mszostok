@@ -9,8 +9,12 @@ doin' cloud-native stuff, the wacky kind | open-source freak and contributor | e
 
 - [kubeshop/botkube](https://github.com/kubeshop/botkube) - A messaging bot for monitoring and debugging Kubernetes clusters.
 - [mszostok/codeowners-validator](https://github.com/mszostok/codeowners-validator) - The GitHub CODEOWNERS file validator.
-- [mszostok/version](https://github.com/mszostok/version) - Go package to present your CLI version in a **classy way**. Born to **remove the repetitiveness** in implementing the version command.
-- [mszostok/gimme](https://github.com/mszostok/gimme) - Give you an easy way to generate statistics about a Git and GitHub repository. **[Will be public soon!]**
+- [mszostok/version](https://github.com/mszostok/version) - Go package to present your CLI version in a **classy way** with upgrade notice.<br/> 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+Born to **remove the repetitiveness** in implementing the version command.
+
+<!-- - [mszostok/gimme](https://github.com/mszostok/gimme) - Give you an easy way to generate statistics about a Git and GitHub repository. **[Will be public soon!]** -->
 
 #### 🔭 My latest projects
 
