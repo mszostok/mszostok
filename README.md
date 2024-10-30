@@ -23,12 +23,4 @@ Born to **remove the repetitiveness** in implementing the version command.
 - [mszostok/dotfiles](https://github.com/mszostok/dotfiles) - dotfiles for peace minded reinstallation: macos, zsh, brew, go, ...
 - [mszostok/gmail-to-drive](https://github.com/mszostok/gmail-to-drive) - Google Apps Script for Gmail to save a given attachments to Google Drive
 - [mszostok/gh-validate-codeowners](https://github.com/mszostok/gh-validate-codeowners) - CODEOWNERS file validator `gh` extension
-
-#### ⭐ Recent Stars
-
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
-- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [mszostok/job-runner](https://github.com/mszostok/job-runner) - Solving a Kata for creating a Linux Job runner (`ADR`, `gRPC`, `cgroupv2`, `mTLS`, etc.)
